@@ -1,166 +1,184 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Huabing Blog</title>
-    <link>https://zhaohuabing.com/tags/</link>
-    <description>Recent content in Tags on Huabing Blog</description>
+    <title>Tags on Zeya&#39;s Blog</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Zeya&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 11 Apr 2018 09:32:00 +0000</lastBuildDate>
     
-	<atom:link href="https://zhaohuabing.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>API Gateway</title>
-      <link>https://zhaohuabing.com/tags/api-gateway/</link>
+      <link>/tags/api-gateway/</link>
       <pubDate>Wed, 11 Apr 2018 09:32:00 +0000</pubDate>
       
-      <guid>https://zhaohuabing.com/tags/api-gateway/</guid>
+      <guid>/tags/api-gateway/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bitcoin</title>
+      <link>/tags/bitcoin/</link>
+      <pubDate>Mon, 21 May 2018 11:00:00 +0000</pubDate>
+      
+      <guid>/tags/bitcoin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Docker</title>
-      <link>https://zhaohuabing.com/tags/docker/</link>
+      <link>/tags/docker/</link>
       <pubDate>Tue, 13 Mar 2018 18:00:00 +0000</pubDate>
       
-      <guid>https://zhaohuabing.com/tags/docker/</guid>
+      <guid>/tags/docker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Helm</title>
-      <link>https://zhaohuabing.com/tags/helm/</link>
+      <link>/tags/helm/</link>
       <pubDate>Mon, 16 Apr 2018 15:00:00 +0000</pubDate>
       
-      <guid>https://zhaohuabing.com/tags/helm/</guid>
+      <guid>/tags/helm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Istio</title>
-      <link>https://zhaohuabing.com/tags/istio/</link>
+      <link>/tags/istio/</link>
       <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://zhaohuabing.com/tags/istio/</guid>
+      <guid>/tags/istio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jekyll:q</title>
+      <link>/tags/jekyllq/</link>
+      <pubDate>Mon, 21 May 2018 11:00:00 +0000</pubDate>
+      
+      <guid>/tags/jekyllq/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kubernetes</title>
-      <link>https://zhaohuabing.com/tags/kubernetes/</link>
+      <link>/tags/kubernetes/</link>
       <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://zhaohuabing.com/tags/kubernetes/</guid>
+      <guid>/tags/kubernetes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Microservice</title>
-      <link>https://zhaohuabing.com/tags/microservice/</link>
+      <link>/tags/microservice/</link>
       <pubDate>Wed, 23 May 2018 18:00:00 +0000</pubDate>
       
-      <guid>https://zhaohuabing.com/tags/microservice/</guid>
+      <guid>/tags/microservice/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>https://zhaohuabing.com/tags/r-markdown/</link>
+      <link>/tags/r-markdown/</link>
       <pubDate>Sun, 12 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://zhaohuabing.com/tags/r-markdown/</guid>
+      <guid>/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Security</title>
-      <link>https://zhaohuabing.com/tags/security/</link>
+      <link>/tags/security/</link>
       <pubDate>Wed, 23 May 2018 18:00:00 +0000</pubDate>
       
-      <guid>https://zhaohuabing.com/tags/security/</guid>
+      <guid>/tags/security/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Service Mesh</title>
-      <link>https://zhaohuabing.com/tags/service-mesh/</link>
+      <link>/tags/service-mesh/</link>
       <pubDate>Wed, 11 Apr 2018 09:32:00 +0000</pubDate>
       
-      <guid>https://zhaohuabing.com/tags/service-mesh/</guid>
+      <guid>/tags/service-mesh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tips</title>
-      <link>https://zhaohuabing.com/tags/tips/</link>
+      <link>/tags/tips/</link>
       <pubDate>Tue, 13 Mar 2018 18:00:00 +0000</pubDate>
       
-      <guid>https://zhaohuabing.com/tags/tips/</guid>
+      <guid>/tags/tips/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Travel</title>
-      <link>https://zhaohuabing.com/tags/travel/</link>
+      <link>/tags/travel/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://zhaohuabing.com/tags/travel/</guid>
+      <guid>/tags/travel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vim</title>
-      <link>https://zhaohuabing.com/tags/vim/</link>
+      <link>/tags/vim/</link>
       <pubDate>Fri, 09 Feb 2018 11:00:00 +0000</pubDate>
       
-      <guid>https://zhaohuabing.com/tags/vim/</guid>
+      <guid>/tags/vim/</guid>
       <description></description>
     </item>
     
     <item>
       <title>nginmesh</title>
-      <link>https://zhaohuabing.com/tags/nginmesh/</link>
+      <link>/tags/nginmesh/</link>
       <pubDate>Tue, 02 Jan 2018 12:00:00 +0000</pubDate>
       
-      <guid>https://zhaohuabing.com/tags/nginmesh/</guid>
+      <guid>/tags/nginmesh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>plot</title>
-      <link>https://zhaohuabing.com/tags/plot/</link>
+      <link>/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://zhaohuabing.com/tags/plot/</guid>
+      <guid>/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>regression</title>
-      <link>https://zhaohuabing.com/tags/regression/</link>
+      <link>/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://zhaohuabing.com/tags/regression/</guid>
+      <guid>/tags/regression/</guid>
       <description></description>
     </item>
     
     <item>
       <title>service Mesh</title>
-      <link>https://zhaohuabing.com/tags/service-mesh/</link>
+      <link>/tags/service-mesh/</link>
       <pubDate>Tue, 02 Jan 2018 12:00:00 +0000</pubDate>
       
-      <guid>https://zhaohuabing.com/tags/service-mesh/</guid>
+      <guid>/tags/service-mesh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ubuntu</title>
-      <link>https://zhaohuabing.com/tags/ubuntu/</link>
+      <link>/tags/ubuntu/</link>
       <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://zhaohuabing.com/tags/ubuntu/</guid>
+      <guid>/tags/ubuntu/</guid>
       <description></description>
     </item>
     

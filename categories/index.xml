@@ -1,48 +1,57 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Huabing Blog</title>
-    <link>https://zhaohuabing.com/categories/</link>
-    <description>Recent content in Categories on Huabing Blog</description>
+    <title>Categories on Zeya&#39;s Blog</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on Zeya&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://zhaohuabing.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Life</title>
-      <link>https://zhaohuabing.com/categories/life/</link>
+      <link>/categories/life/</link>
       <pubDate>Sun, 12 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://zhaohuabing.com/categories/life/</guid>
+      <guid>/categories/life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Note</title>
+      <link>/categories/note/</link>
+      <pubDate>Mon, 21 May 2018 11:00:00 +0000</pubDate>
+      
+      <guid>/categories/note/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>https://zhaohuabing.com/categories/r/</link>
+      <link>/categories/r/</link>
       <pubDate>Sun, 12 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://zhaohuabing.com/categories/r/</guid>
+      <guid>/categories/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tech</title>
-      <link>https://zhaohuabing.com/categories/tech/</link>
+      <link>/categories/tech/</link>
       <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://zhaohuabing.com/categories/tech/</guid>
+      <guid>/categories/tech/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tips</title>
-      <link>https://zhaohuabing.com/categories/tips/</link>
+      <link>/categories/tips/</link>
       <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://zhaohuabing.com/categories/tips/</guid>
+      <guid>/categories/tips/</guid>
       <description></description>
     </item>
     

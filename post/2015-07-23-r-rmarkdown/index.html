@@ -15,15 +15,15 @@
     
 
     
-    <meta name="title" content="如何使用非root用户执行docker命令" />
-    <meta property="og:title" content="如何使用非root用户执行docker命令" />
-    <meta property="twitter:title" content="如何使用非root用户执行docker命令" />
+    <meta name="title" content="Hello R Markdown" />
+    <meta property="og:title" content="Hello R Markdown" />
+    <meta property="twitter:title" content="Hello R Markdown" />
     
 
     
-    <meta name="description" content="如何使用非root用户执行docker命令">
-    <meta property="og:description" content="如何使用非root用户执行docker命令" />
-    <meta property="twitter:description" content="如何使用非root用户执行docker命令" />
+    <meta name="description" content="I am Zhengyao (Zeya) Xue and here is my blog where I share my interests of bioinformatics and life with the world.我是薛正遥，欢迎来到我的生信博客">
+    <meta property="og:description" content="I am Zhengyao (Zeya) Xue and here is my blog where I share my interests of bioinformatics and life with the world.我是薛正遥，欢迎来到我的生信博客" />
+    <meta property="twitter:description" content="I am Zhengyao (Zeya) Xue and here is my blog where I share my interests of bioinformatics and life with the world.我是薛正遥，欢迎来到我的生信博客" />
     
 
     
@@ -34,9 +34,9 @@
     <meta name="keyword"  content="薛正遥, Zeya Xue, Zhengyao Xue">
     <link rel="shortcut icon" href="/img/favicon.ico">
 
-    <title>如何使用非root用户执行docker命令-Zeya&#39;s Blog | 薛正遥的博客 </title>
+    <title>Hello R Markdown-Zeya&#39;s Blog | 薛正遥的博客 </title>
 
-    <link rel="canonical" href="/2018/02/09/docker-without-sudo/">
+    <link rel="canonical" href="/post/2015-07-23-r-rmarkdown/">
 
     <link rel="stylesheet" href="/css/iDisqus.min.css"/>
 	
@@ -166,7 +166,7 @@
 
 <style type="text/css">
     header.intro-header {
-        background-image: url('https://img.zhaohuabing.com/in-post/docker.jpg')
+        background-image: url('/img/home-bg-jeep.jpg')
     }
 </style>
 <header class="intro-header">
@@ -176,24 +176,28 @@
                 <div class="post-heading">
                     <div class="tags">
                         
-                        <a class="tag" href="/tags/tips" title="Tips">
-                            Tips
+                        <a class="tag" href="/tags/r-markdown" title="R Markdown">
+                            R Markdown
                         </a>
                         
-                        <a class="tag" href="/tags/docker" title="Docker">
-                            Docker
+                        <a class="tag" href="/tags/plot" title="plot">
+                            plot
+                        </a>
+                        
+                        <a class="tag" href="/tags/regression" title="regression">
+                            regression
                         </a>
                         
                     </div>
-                    <h1>如何使用非root用户执行docker命令</h1>
+                    <h1>Hello R Markdown</h1>
                     <h2 class="subheading"></h2>
                     <span class="meta">
 			Posted by 
 			
-			    赵化冰
+			    Frida Gomam
 			 
 			on 
-			Friday, February 9, 2018
+			Thursday, July 23, 2015
                         
                     </span>
                 </div>
@@ -216,17 +220,53 @@
                 post-container">
 
                 
+                <header>
+                    <h2>TOC</h2>
+                </header>
+                
+                
                 
 
-<h3 id="add-the-docker-group-if-it-doesn-t-already-exist">Add the docker group if it doesn&rsquo;t already exist:</h3>
 
-<p>sudo groupadd docker</p>
-
-<h3 id="add-the-connected-user-user-to-the-docker-group-change-the-user-name-to-match-your-preferred-user-if-you-do-not-want-to-use-your-current-user">Add the connected user &ldquo;$USER&rdquo; to the docker group. Change the user name to match your preferred user if you do not want to use your current user:</h3>
-
-<p>sudo gpasswd -a $USER docker</p>
-
-<h3 id="either-do-a-newgrp-docker-or-log-out-in-to-activate-the-changes-to-groups">Either do a newgrp docker or log out/in to activate the changes to groups.</h3>
+<div id="r-markdown" class="section level1">
+<h1>R Markdown</h1>
+<p>This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <a href="http://rmarkdown.rstudio.com" class="uri">http://rmarkdown.rstudio.com</a>.</p>
+<p>You can embed an R code chunk like this:</p>
+<pre class="r"><code>summary(cars)
+##      speed           dist       
+##  Min.   : 4.0   Min.   :  2.00  
+##  1st Qu.:12.0   1st Qu.: 26.00  
+##  Median :15.0   Median : 36.00  
+##  Mean   :15.4   Mean   : 42.98  
+##  3rd Qu.:19.0   3rd Qu.: 56.00  
+##  Max.   :25.0   Max.   :120.00
+fit &lt;- lm(dist ~ speed, data = cars)
+fit
+## 
+## Call:
+## lm(formula = dist ~ speed, data = cars)
+## 
+## Coefficients:
+## (Intercept)        speed  
+##     -17.579        3.932</code></pre>
+</div>
+<div id="including-plots" class="section level1">
+<h1>Including Plots</h1>
+<p>You can also embed plots. See Figure <a href="#fig:pie">1</a> for example:</p>
+<pre class="r"><code>par(mar = c(0, 1, 0, 1))
+pie(
+  c(280, 60, 20),
+  c(&#39;Sky&#39;, &#39;Sunny side of pyramid&#39;, &#39;Shady side of pyramid&#39;),
+  col = c(&#39;#0292D8&#39;, &#39;#F7EA39&#39;, &#39;#C4B632&#39;),
+  init.angle = -50, border = NA
+)</code></pre>
+<div class="figure"><span id="fig:pie"></span>
+<img src="/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png" alt="A fancy pie chart." width="672" />
+<p class="caption">
+Figure 1: A fancy pie chart.
+</p>
+</div>
+</div>
 
 
                 
@@ -274,14 +314,9 @@
                 <hr>
                 <ul class="pager">
                     
-                    <li class="previous">
-                        <a href="/2018/05/22/user_authentication_authorization/" data-toggle="tooltip" data-placement="top" title="如何构建安全的微服务应用？">&larr;
-                            Previous Post</a>
-                    </li>
-                    
                     
                     <li class="next">
-                        <a href="/2018/02/09/vim-tips/" data-toggle="tooltip" data-placement="top" title="Vim Tips">Next
+                        <a href="/2017/11/03/hello-world/" data-toggle="tooltip" data-placement="top" title="Welcome to Zhaohuabing Blog">Next
                             Post &rarr;</a>
                     </li>
                     
