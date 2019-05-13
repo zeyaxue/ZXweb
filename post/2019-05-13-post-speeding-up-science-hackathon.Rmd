@@ -15,3 +15,14 @@ image: ''
 ## What is the speeding up science workshop/hackathon? 
 
 Here's a link to the workshop [GitHub](https://github.com/speeding-up-science-workshops/speeding-up-science) and all the [visualization workflows](https://speeding-up-science-workshops.github.io/speeding-up-science/) came from the workshop. 
+
+
+### 
+- Thanks for introducing me to Binder! I love it for reproducible research.
+
+### Grapes
+- I was hoping to learn more about jupyter notebook but since there are not acutal teaching and people are separated into groups and each individual is busy hacking...I didn't get time to finish all the analysis I do as well as ask others how to do python..
+- I wanted to learn teh upstream, "heavy lifting part" of the analysis but just ended up coding the visualization, which I already do on a daily basis. 
+- In all, I would say this workshop/hackathon is more for horning in your skills that you are already good at, instead of picking up a new skills.
+
+p.s. I went to the 1st ever event, which means that future events may undergo dramatic changes.
