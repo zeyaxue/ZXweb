@@ -2,56 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Zeya Xue&#39;s Blog</title>
-    <link>/categories/</link>
+    <link>https://zeyaxue.github.io/categories/</link>
     <description>Recent content in Categories on Zeya Xue&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://zeyaxue.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Life</title>
-      <link>/categories/life/</link>
+      <link>https://zeyaxue.github.io/categories/life/</link>
       <pubDate>Sun, 12 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/life/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Note</title>
-      <link>/categories/note/</link>
-      <pubDate>Mon, 21 May 2018 11:00:00 +0000</pubDate>
-      
-      <guid>/categories/note/</guid>
+      <guid>https://zeyaxue.github.io/categories/life/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>/categories/r/</link>
+      <link>https://zeyaxue.github.io/categories/r/</link>
       <pubDate>Mon, 13 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/r/</guid>
+      <guid>https://zeyaxue.github.io/categories/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tech</title>
-      <link>/categories/tech/</link>
+      <link>https://zeyaxue.github.io/categories/tech/</link>
       <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/categories/tech/</guid>
+      <guid>https://zeyaxue.github.io/categories/tech/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tips</title>
-      <link>/categories/tips/</link>
+      <link>https://zeyaxue.github.io/categories/tips/</link>
       <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/categories/tips/</guid>
+      <guid>https://zeyaxue.github.io/categories/tips/</guid>
       <description></description>
     </item>
     

@@ -2,183 +2,165 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Zeya Xue&#39;s Blog</title>
-    <link>/tags/</link>
+    <link>https://zeyaxue.github.io/tags/</link>
     <description>Recent content in Tags on Zeya Xue&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 11 Apr 2018 09:32:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://zeyaxue.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>API Gateway</title>
-      <link>/tags/api-gateway/</link>
+      <link>https://zeyaxue.github.io/tags/api-gateway/</link>
       <pubDate>Wed, 11 Apr 2018 09:32:00 +0000</pubDate>
       
-      <guid>/tags/api-gateway/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bitcoin</title>
-      <link>/tags/bitcoin/</link>
-      <pubDate>Mon, 21 May 2018 11:00:00 +0000</pubDate>
-      
-      <guid>/tags/bitcoin/</guid>
+      <guid>https://zeyaxue.github.io/tags/api-gateway/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Docker</title>
-      <link>/tags/docker/</link>
+      <link>https://zeyaxue.github.io/tags/docker/</link>
       <pubDate>Tue, 13 Mar 2018 18:00:00 +0000</pubDate>
       
-      <guid>/tags/docker/</guid>
+      <guid>https://zeyaxue.github.io/tags/docker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Helm</title>
-      <link>/tags/helm/</link>
+      <link>https://zeyaxue.github.io/tags/helm/</link>
       <pubDate>Mon, 16 Apr 2018 15:00:00 +0000</pubDate>
       
-      <guid>/tags/helm/</guid>
+      <guid>https://zeyaxue.github.io/tags/helm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Istio</title>
-      <link>/tags/istio/</link>
+      <link>https://zeyaxue.github.io/tags/istio/</link>
       <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/istio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jekyll:q</title>
-      <link>/tags/jekyllq/</link>
-      <pubDate>Mon, 21 May 2018 11:00:00 +0000</pubDate>
-      
-      <guid>/tags/jekyllq/</guid>
+      <guid>https://zeyaxue.github.io/tags/istio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kubernetes</title>
-      <link>/tags/kubernetes/</link>
+      <link>https://zeyaxue.github.io/tags/kubernetes/</link>
       <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/kubernetes/</guid>
+      <guid>https://zeyaxue.github.io/tags/kubernetes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Microservice</title>
-      <link>/tags/microservice/</link>
+      <link>https://zeyaxue.github.io/tags/microservice/</link>
       <pubDate>Wed, 23 May 2018 18:00:00 +0000</pubDate>
       
-      <guid>/tags/microservice/</guid>
+      <guid>https://zeyaxue.github.io/tags/microservice/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>/tags/r-markdown/</link>
+      <link>https://zeyaxue.github.io/tags/r-markdown/</link>
       <pubDate>Mon, 13 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/r-markdown/</guid>
+      <guid>https://zeyaxue.github.io/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Security</title>
-      <link>/tags/security/</link>
+      <link>https://zeyaxue.github.io/tags/security/</link>
       <pubDate>Wed, 23 May 2018 18:00:00 +0000</pubDate>
       
-      <guid>/tags/security/</guid>
+      <guid>https://zeyaxue.github.io/tags/security/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Service Mesh</title>
-      <link>/tags/service-mesh/</link>
+      <link>https://zeyaxue.github.io/tags/service-mesh/</link>
       <pubDate>Wed, 11 Apr 2018 09:32:00 +0000</pubDate>
       
-      <guid>/tags/service-mesh/</guid>
+      <guid>https://zeyaxue.github.io/tags/service-mesh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tips</title>
-      <link>/tags/tips/</link>
+      <link>https://zeyaxue.github.io/tags/tips/</link>
       <pubDate>Tue, 13 Mar 2018 18:00:00 +0000</pubDate>
       
-      <guid>/tags/tips/</guid>
+      <guid>https://zeyaxue.github.io/tags/tips/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Travel</title>
-      <link>/tags/travel/</link>
+      <link>https://zeyaxue.github.io/tags/travel/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/travel/</guid>
+      <guid>https://zeyaxue.github.io/tags/travel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vim</title>
-      <link>/tags/vim/</link>
+      <link>https://zeyaxue.github.io/tags/vim/</link>
       <pubDate>Fri, 09 Feb 2018 11:00:00 +0000</pubDate>
       
-      <guid>/tags/vim/</guid>
+      <guid>https://zeyaxue.github.io/tags/vim/</guid>
       <description></description>
     </item>
     
     <item>
       <title>nginmesh</title>
-      <link>/tags/nginmesh/</link>
+      <link>https://zeyaxue.github.io/tags/nginmesh/</link>
       <pubDate>Tue, 02 Jan 2018 12:00:00 +0000</pubDate>
       
-      <guid>/tags/nginmesh/</guid>
+      <guid>https://zeyaxue.github.io/tags/nginmesh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>plot</title>
-      <link>/tags/plot/</link>
+      <link>https://zeyaxue.github.io/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/tags/plot/</guid>
+      <guid>https://zeyaxue.github.io/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>regression</title>
-      <link>/tags/regression/</link>
+      <link>https://zeyaxue.github.io/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/tags/regression/</guid>
+      <guid>https://zeyaxue.github.io/tags/regression/</guid>
       <description></description>
     </item>
     
     <item>
       <title>service Mesh</title>
-      <link>/tags/service-mesh/</link>
+      <link>https://zeyaxue.github.io/tags/service-mesh/</link>
       <pubDate>Tue, 02 Jan 2018 12:00:00 +0000</pubDate>
       
-      <guid>/tags/service-mesh/</guid>
+      <guid>https://zeyaxue.github.io/tags/service-mesh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ubuntu</title>
-      <link>/tags/ubuntu/</link>
+      <link>https://zeyaxue.github.io/tags/ubuntu/</link>
       <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/ubuntu/</guid>
+      <guid>https://zeyaxue.github.io/tags/ubuntu/</guid>
       <description></description>
     </item>
     
