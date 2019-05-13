@@ -1,0 +1,17 @@
+---
+title: Post speeding up science hackathon
+author: Zeya Xue
+date: '2019-05-13'
+slug: post-speeding-up-science-hackathon
+categories:
+  - R
+tags:
+  - R Markdown
+subtitle: ''
+description: ''
+image: ''
+---
+
+## What is the speeding up science workshop/hackathon? 
+
+Here's a link to the workshop [GitHub](https://github.com/speeding-up-science-workshops/speeding-up-science) and all the [visualization workflows](https://speeding-up-science-workshops.github.io/speeding-up-science/) came from the workshop. 
