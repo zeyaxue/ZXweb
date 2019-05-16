@@ -1,0 +1,20 @@
+---
+title: First post
+author: Zeya Xue
+date: '2019-05-12'
+slug: first-post
+categories:
+  - Life
+  - R
+tags:
+  - R Markdown
+subtitle: ''
+description: ''
+image: ''
+---
+
+# Hello world! 
+
+This is the 1st post as a test for using Blogdown to make a website with Huabing’s clean white theme for Hugo.
+
+Acutal life note: I came back from dinner at Wen and Nada’s place. As usual, they are uber nice and I’m amazed by how agile Wen is at the age of 95. Wish him good health for many years to come!!!

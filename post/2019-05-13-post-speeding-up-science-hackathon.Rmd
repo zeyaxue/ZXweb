@@ -1,0 +1,27 @@
+---
+title: Post speeding up science hackathon
+author: Zeya Xue
+date: '2019-05-13'
+slug: post-speeding-up-science-hackathon
+categories:
+  - R
+tags:
+  - R Markdown
+subtitle: ''
+description: ''
+image: ''
+---
+
+## What is the speeding up science workshop/hackathon? 
+Direct quote from the organizer [Holly Bik](https://www.hollybik.com/about/) and [Titus Brown](https://biology.ucdavis.edu/people/c-titus-brown): Speeding up Science" is a series of workshops focused on developing application-specific Jupyter notebooks which are executable/launchable via Binder. The goal of these workshops is to “reverse engineer” common data visualization approaches used for biological data analysis and commonly published in scientific journal articles (heatmaps, read/OTU summaries, etc.).
+
+Here's a link to the workshop [GitHub](https://github.com/speeding-up-science-workshops/speeding-up-science) and all the [visualization workflows](https://speeding-up-science-workshops.github.io/speeding-up-science/) came from the workshop. 
+
+
+### My Biggest joy from the workshop
+- Thanks for introducing me to Binder! I love it for reproducible research as it contains not only codes but also data that is associated with the analyses. What's better is that anyone can quickly open a built binder as long as they have Internet acess. No downloads. No installation. As easy as click a link and you get to play with published datasets or upload your data for analyses! Here's my Binder for making heatmap and stacked bar plots [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zeyaxue/speeding-up-science-binder/master?urlpath=rstudio). Have a try and let me know if it works for you!  
+
+### Some venting
+- I wanted to learn the upstream, "heavy lifting part" of the analysis (e.g. How to make MAGs?) but just ended up coding the visualization, which I already do on a daily basis. 
+- In all, I would say this workshop/hackathon is more for harnessing your skills instead of picking up a new one. 
+- P.S. I went to the 1st ever event, which means that future events may undergo dramatic changes.

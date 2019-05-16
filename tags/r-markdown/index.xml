@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R Markdown on Zeya Xue</title>
+    <link>https://zeyaxue.github.io/tags/r-markdown/</link>
+    <description>Recent content in R Markdown on Zeya Xue</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://zeyaxue.github.io/tags/r-markdown/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to build a website in R - for beginners</title>
+      <link>https://zeyaxue.github.io/post/how-to-build-a-website-in-r-for-beginners/</link>
+      <pubDate>Mon, 13 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://zeyaxue.github.io/post/how-to-build-a-website-in-r-for-beginners/</guid>
+      <description>I know posts like Yiuhui and Amber but here an actual step by step guide for you to build a website using R and publish the websit at GitHub ()
+http://jmcglone.com/guides/github-pages/
+https://stackoverflow.com/questions/49073043/get-github-pages-site-found-in-google-search-results</description>
+    </item>
+    
+    <item>
+      <title>Post speeding up science hackathon</title>
+      <link>https://zeyaxue.github.io/post/post-speeding-up-science-hackathon/</link>
+      <pubDate>Mon, 13 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://zeyaxue.github.io/post/post-speeding-up-science-hackathon/</guid>
+      <description>What is the speeding up science workshop/hackathon? Direct quote from the organizer Holly Bik and Titus Brown: Speeding up Science&amp;quot; is a series of workshops focused on developing application-specific Jupyter notebooks which are executable/launchable via Binder. The goal of these workshops is to “reverse engineer” common data visualization approaches used for biological data analysis and commonly published in scientific journal articles (heatmaps, read/OTU summaries, etc.).
+Here’s a link to the workshop GitHub and all the visualization workflows came from the workshop.</description>
+    </item>
+    
+    <item>
+      <title>First post</title>
+      <link>https://zeyaxue.github.io/post/first-post/</link>
+      <pubDate>Sun, 12 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://zeyaxue.github.io/post/first-post/</guid>
+      <description> Hello world! This is the 1st post as a test for using Blogdown to make a website with Huabing’s clean white theme for Hugo.
+Acutal life note: I came back from dinner at Wen and Nada’s place. As usual, they are uber nice and I’m amazed by how agile Wen is at the age of 95. Wish him good health for many years to come!!!
+ </description>
+    </item>
+    
+  </channel>
+</rss>
