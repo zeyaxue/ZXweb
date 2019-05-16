@@ -1,0 +1,27 @@
+---
+title: How to build a website in R - for beginners
+author: Zeya Xue
+date: '2019-05-16'
+slug: how-to-build-a-website-in-r-for-beginners
+categories:
+  - R
+  - Tips
+tags:
+  - R Markdown
+subtitle: ''
+description: ''
+image: '/img/home-penguin.jpg'
+---
+
+I know posts like Yiuhui and Amber but here an *actual* step by step guide for you to build a website using R and publish the websit at GitHub ()
+
+http://jmcglone.com/guides/github-pages/
+
+https://stackoverflow.com/questions/49073043/get-github-pages-site-found-in-google-search-results
+
+https://support.google.com/domains/answer/6388481?hl=en
+
+https://www.startups.com/community/questions/4959/website-show-in-google-search
+
+# Creating a site with Github Pages and indexing on Google
+https://adadevelopment.github.io/other/create-site-github-pages.html
