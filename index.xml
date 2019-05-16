@@ -6,10 +6,25 @@
     <description>Recent content on Zeya Xue</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://zeyaxue.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to build a website in R - for beginners</title>
+      <link>https://zeyaxue.github.io/post/how-to-build-a-website-in-r-for-beginners/</link>
+      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://zeyaxue.github.io/post/how-to-build-a-website-in-r-for-beginners/</guid>
+      <description> I know posts like Yiuhui and Amber but here an actual step by step guide for you to build a website using R and publish the websit at GitHub ()
+http://jmcglone.com/guides/github-pages/
+https://stackoverflow.com/questions/49073043/get-github-pages-site-found-in-google-search-results
+https://support.google.com/domains/answer/6388481?hl=en
+https://www.startups.com/community/questions/4959/website-show-in-google-search
+Creating a site with Github Pages and indexing on Google https://adadevelopment.github.io/other/create-site-github-pages.html
+ </description>
+    </item>
     
     <item>
       <title>How to build a website in R - for beginners</title>
