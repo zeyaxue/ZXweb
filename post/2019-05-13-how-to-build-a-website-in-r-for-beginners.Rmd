@@ -20,3 +20,10 @@ I know posts like Yiuhui and Amber but here an *actual* step by step guide for y
 http://jmcglone.com/guides/github-pages/
 
 https://stackoverflow.com/questions/49073043/get-github-pages-site-found-in-google-search-results
+
+https://support.google.com/domains/answer/6388481?hl=en
+
+https://www.startups.com/community/questions/4959/website-show-in-google-search
+
+# Creating a site with Github Pages and indexing on Google
+https://adadevelopment.github.io/other/create-site-github-pages.html
