@@ -27,10 +27,6 @@
   </url>
   
   <url>
-    <loc>https://zeyaxue.github.io/top/about/</loc>
-  </url>
-  
-  <url>
     <loc>https://zeyaxue.github.io/top/books/</loc>
   </url>
   
@@ -95,6 +91,10 @@
   <url>
     <loc>https://zeyaxue.github.io/top/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zeyaxue.github.io/top/about/</loc>
   </url>
   
   <url>

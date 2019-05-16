@@ -12,20 +12,20 @@
     
     <item>
       <title></title>
-      <link>https://zeyaxue.github.io/top/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zeyaxue.github.io/top/about/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://zeyaxue.github.io/top/books/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://zeyaxue.github.io/top/books/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Who am I?</title>
+      <link>https://zeyaxue.github.io/top/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zeyaxue.github.io/top/about/</guid>
+      <description>My name is Zhengyao (Zeya) Xue. 中文名是薛正遥。I am currently a PhD candidate at University of California Davis. I got my BS from Nanjing University, China.</description>
     </item>
     
   </channel>
