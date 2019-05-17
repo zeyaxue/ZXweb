@@ -27,3 +27,5 @@ https://www.startups.com/community/questions/4959/website-show-in-google-search
 https://adadevelopment.github.io/other/create-site-github-pages.html
 
 5-16 3pm
+
+sitemaps
