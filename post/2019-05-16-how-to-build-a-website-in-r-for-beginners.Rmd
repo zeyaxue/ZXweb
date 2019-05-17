@@ -31,5 +31,5 @@ https://adadevelopment.github.io/other/create-site-github-pages.html
 sitemaps
 
 ```{r echo=FALSE, out.width='50%'}
-knitr::include_graphics("https://raw.githubusercontent.com/zeyaxue/speeding-up-science-binder/master/figs/unnamed-chunk-5-1.png")
+knitr::include_graphics("img/home-tree.jpg")
 ```
