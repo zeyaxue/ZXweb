@@ -12,7 +12,7 @@ subtitle: ''
 description: ''
 image: '/img/home-penguin.jpg'
 ---
-
+# modify in content 
 I know posts like Yiuhui and Amber but here an *actual* step by step guide for you to build a website using R and publish the websit at GitHub ()
 
 http://jmcglone.com/guides/github-pages/
