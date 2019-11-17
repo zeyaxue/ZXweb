@@ -61,12 +61,21 @@ Acutal life note: I came back from dinner at Wen and Nada’s place. As usual, t
     </item>
     
     <item>
+      <title></title>
+      <link>https://zeyaxue.github.io/top/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zeyaxue.github.io/top/publications/</guid>
+      <description>Publications       code{white-space: pre;} pre:not([class]) { background-color: white; }  if (window.hljs) { hljs.configure({languages: []}); hljs.initHighlightingOnLoad(); if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) { window.setTimeout(function() { hljs.initHighlighting(); }, 0); } }  h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .</description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>https://zeyaxue.github.io/top/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://zeyaxue.github.io/top/about/</guid>
-      <description>My name is Zhengyao (Zeya) Xue. 中文名是薛正遥。I am a bioinformatics postdoc in the Lemay lab at USDA WHNRC, studying the dietary effects on the occurrences of antimicrobial resistance genes among the gut microbiome using metagenomics methods. I received my PhD focused on the microbiota of milk and fermented dairy products from UC Davis in 2019. I got my BS from Nanjing University, China.</description>
+      <description>My name is Zhengyao (Zeya) Xue. 中文名是薛正遥。I am a bioinformatics postdoc in the Lemay lab at USDA WHNRC, studying the dietary effects on the occurrences of antimicrobial resistance genes among the gut microbiome using metagenomics methods. I received my PhD focused on the microbiota of milk and fermented dairy products from UC Davis in 2019. I got my BS from Nanjing University,</description>
     </item>
     
     <item>
@@ -76,8 +85,8 @@ Acutal life note: I came back from dinner at Wen and Nada’s place. As usual, t
       
       <guid>https://zeyaxue.github.io/top/publications/</guid>
       <description>Google Scholar Profile
-2019  Kable, Mary E., Yanin Srisengfa, Zhengyao Xue, Laurynne C. Coates, and Maria L. Marco. &amp;ldquo;Viable and total bacterial populations undergo equipment-and time-dependent shifts during milk processing.&amp;rdquo; Appl. Environ. Microbiol. (2019): AEM-00270.DOI: 10.1128/AEM.00270-19
- Appelt, Sandra, Sharif S. Aly, Karen Tonooka, Kathy Glenn, Zhengyao Xue, Terry W. Lehenbauer, and Maria L. Marco. Development and comparison of loop-mediated isothermal amplification and quantitative polymerase chain reaction assays for the detection of Mycoplasma bovis in milk.</description>
+2019  Zhengyao Xue, Mary E. Kable, and Maria L. Marco. &amp;ldquo;Metagenomics of Milk and Dairy Products.&amp;rdquo; In Food Microbiology: Fundamentals and Frontiers, 5th Ed. Edited by Doyle MP, Diez-Gonzalez F, Hill C. Washington, DC: ASM Press; (2019): 103-123. DOI: 10.1128&amp;frasl;9781555819972
+ Kable, Mary E., Yanin Srisengfa, Zhengyao Xue, Laurynne C. Coates, and Maria L. Marco. &amp;ldquo;Viable and total bacterial populations undergo equipment-and time-dependent shifts during milk processing.</description>
     </item>
     
   </channel>
